@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2022-12-28 Wed 13:19 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="Kai Aragaki" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<link rel="stylesheet" type="text/css" href="cookbook.css" />
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org4e75f13">1. Parmesan Roasted Potatoes</a></li>
+<li><a href="#org6788a8c">2. Creamy Sweet Potato Soup</a></li>
+<li><a href="#org0dfa035">3. Thai Coconut Curry Braised Chicken Thighs</a></li>
+<li><a href="#org971c214">4. Curry Beef with Peas</a></li>
+<li><a href="#org65d3dcb">5. Sheet Pan Chicken Fajitas</a></li>
+<li><a href="#orgc90635f">6. Sesame Cucumber Salad</a></li>
+<li><a href="#orgea1ceb0">7. Coconut Rice</a></li>
+<li><a href="#orge9e8f80">8. Honey Sriracha Tofu</a></li>
+<li><a href="#org51128ab">9. Easy Teriyaki Chicken</a></li>
+<li><a href="#org930f160">10. Gluten Free Pie Crust</a></li>
+<li><a href="#org8d60f4d">11. Blueberry Pie Filling</a></li>
+<li><a href="#org997d814">12. Whipping Cream</a></li>
+<li><a href="#org67aaa5d">13. Butternut Squash Curry</a></li>
+<li><a href="#orge4546ed">14. Hearty Black Bean Quesadillas</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4e75f13" class="outline-2">
+<h2 id="org4e75f13"><span class="section-number-2">1.</span> Parmesan Roasted Potatoes</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org3c789ec" class="outline-3">
+<h3 id="org3c789ec"><span class="section-number-3">1.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-1-1">
+<ul class="org-ul">
+<li>2 lbs. red potatoes ($2.58)</li>
+<li>2 Tbsp olive oil ($0.32)</li>
+<li>1/3 cup grated Parmesan ($0.59)</li>
+<li>1/2 tsp garlic powder ($0.05)</li>
+<li>1/2 tsp paprika ($0.05)</li>
+<li>1/4 tsp salt ($0.02)</li>
+<li>1/4 tsp Freshly cracked black pepper ($0.02)</li>
+<li>2 Tbsp chopped fresh parsley (optional) ($0.20)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc393b80" class="outline-3">
+<h3 id="orgc393b80"><span class="section-number-3">1.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-1-2">
+<ol class="org-ol">
+<li>Preheat the oven to 400ºF. Wash the potatoes, then cut into 1-inch pieces. Place the chopped potatoes in a large bowl</li>
+<li>In a small bowl, stir together the grated Parmesan, garlic powder, paprika, salt, and pepper.</li>
+<li>Drizzle the olive oil over the potatoes, then toss to coat. Sprinkle the Parmesan mixture over the potatoes, then toss to coat again.</li>
+<li>Spread the potatoes out over a large baking sheet (lined with parchment for easy cleanup, if desired) with cut sides facing down.</li>
+<li>Roast the potatoes in the oven for 30 minutes then give them a good stir. Return the potatoes to the oven and roast for an additional 5-10 minutes, or until well browned.</li>
+<li>Season the potatoes with another pinch of salt, if desired, then garnish with parsley and serve.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org6788a8c" class="outline-2">
+<h2 id="org6788a8c"><span class="section-number-2">2.</span> Creamy Sweet Potato Soup</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org6d87e2c" class="outline-3">
+<h3 id="org6d87e2c"><span class="section-number-3">2.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-2-1">
+<ul class="org-ul">
+<li>2 lbs. sweet potatoes ($1.98)</li>
+<li>2 Tbsp olive oil, divided ($0.32)</li>
+<li>1 yellow onion ($0.32)</li>
+<li>4 cloves garlic ($0.32)</li>
+<li>1/2 tsp ground cumin ($0.05)</li>
+<li>1/4 tsp smoked paprika ($0.02)</li>
+<li>1/8 tsp cayenne ($0.02)</li>
+<li>1/8 tsp cinnamon ($0.02)</li>
+<li>1/4 tsp freshly cracked black pepper ($0.02)</li>
+<li>4 cups chicken broth ($0.52)</li>
+<li>1/2 cup heavy cream ($0.50)</li>
+<li>1/4 tsp salt (or to taste) ($0.02)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd7fb3e2" class="outline-3">
+<h3 id="orgd7fb3e2"><span class="section-number-3">2.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-2-2">
+<ol class="org-ol">
+<li>Preheat the oven to 400ºF. Line a baking sheet with parchment paper. Slice the sweet potatoes in half lengthwise, then prick the skins a few times with a fork. Rub 1 tablespoon olive oil over all surfaces of the sweet potatoes, then place them face down on the baking sheet.</li>
+<li>Transfer the baking sheet to the preheated oven and roast for 30 minutes. After roasting for 30 minutes, check to see if they are tender all the way through (pierce with a fork). If not tender, return them to the oven for about 10 minutes and check again. Total roasting time will depend on the size of your potatoes. Allow the sweet potatoes to cool slightly after roasting.</li>
+<li>While the sweet potatoes are cooling, dice the onion and mince the garlic. Add the onion and garlic to a skillet along with the remaining 1 tablespoon olive oil. Sauté the onion and garlic over medium heat until the onions are soft.</li>
+<li>Add the cumin, smoked paprika, cayenne, cinnamon, and pepper to the skillet with the onions and garlic, and continue to sauté for about a minute more.</li>
+<li>Scoop the slightly cooled sweet potato flesh out of their skins and into a blender (6 cup capacity or larger). Also add the onion mixture and 2 cups chicken broth (swirl a little bit of the broth in the skillet first to pick up all the spices). Purée the mixture until smooth.</li>
+<li>Transfer the puréed sweet potato mixture to a soup pot and add an additional 1 to 2 cups chicken broth (less for a really thick soup, more for a more liquid soup). Heat the soup through over medium heat.</li>
+<li>Stir the heavy cream into the soup, then taste and adjust the salt or pepper if needed. Serve hot.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org0dfa035" class="outline-2">
+<h2 id="org0dfa035"><span class="section-number-2">3.</span> Thai Coconut Curry Braised Chicken Thighs</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org3fa472b" class="outline-3">
+<h3 id="org3fa472b"><span class="section-number-3">3.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-3-1">
+<ul class="org-ul">
+<li>1 Tbsp cooking oil ($0.04)</li>
+<li>5 boneless, skinless chicken thighs ($5.30)</li>
+<li>2 Tbsp red Thai curry paste ($0.62)</li>
+<li>2 cloves garlic, minced ($0.16)</li>
+<li>1 Tbsp grated ginger ($0.05)</li>
+<li>1 13oz. can coconut milk ($2.17)</li>
+<li>1 cup chicken broth* ($0.13)</li>
+<li>1/4 tsp fish sauce ($0.02)</li>
+<li>5 cups cooked jasmine or basmati rice ($1.10)</li>
+<li>1/4 bunch fresh cilantro ($0.20)</li>
+<li>2-3 green onions** ($0.17)</li>
+<li>1 lime ($0.33)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc191a2c" class="outline-3">
+<h3 id="orgc191a2c"><span class="section-number-3">3.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-3-2">
+<ol class="org-ol">
+<li>Heat a large deep skillet or soup pot over medium heat. Add the cooking oil, then swirl to cover the surface of the skillet. Add the chicken thighs to the skillet and cook until browned on each side (about 3-5 minutes each side). Remove the chicken from the skillet.</li>
+<li>Add the Thai curry paste, minced garlic, and grated ginger to the skillet. Stir and sauté the aromatics for about one minute.</li>
+<li>Add the coconut milk, chicken broth, and fish sauce to the skillet. Stir to combine and dissolve any browned bits off the bottom of the skillet. Add the chicken back to the skillet, place a lid on top, and allow the skillet come to a simmer. Turn the heat down to low or medium-low and let the thighs simmer in the coconut sauce for 15 minutes.</li>
+<li>To serve, scoop about 1 cup of cooked rice into the bottom of each bowl. Add one of the braised chicken thighs, then top with a ladle or two of the coconut broth. Add fresh cilantro leaves, sliced green onion, and a wedge or two of fresh lime to each bowl.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org971c214" class="outline-2">
+<h2 id="org971c214"><span class="section-number-2">4.</span> Curry Beef with Peas</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-orgd70ee3b" class="outline-3">
+<h3 id="orgd70ee3b"><span class="section-number-3">4.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-4-1">
+<ul class="org-ul">
+<li>4 cloves garlic, minced ($0.32)</li>
+<li>1 tsp grated fresh ginger ($0.10)</li>
+<li>2 Tbsp cooking oil ($0.08)</li>
+<li>1 Tbsp curry powder ($0.30)</li>
+<li>1 tsp turmeric ($0.10)</li>
+<li>1/4 tsp crushed red pepper (optional) ($0.02)</li>
+<li>1 lb. ground beef (15% fat or less) ($5.49)</li>
+<li>1 russet potato (¾ lb.) ($0.63)</li>
+<li>1 cup beef broth ($0.13)</li>
+<li>1 cup frozen peas ($0.50)</li>
+<li>1/2 tsp salt ($0.02)</li>
+<li>2 green onions, sliced (optional) ($0.22)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org99e0e82" class="outline-3">
+<h3 id="org99e0e82"><span class="section-number-3">4.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-4-2">
+<ol class="org-ol">
+<li>Add the minced garlic, grated ginger, and cooking oil to a large deep skillet. Sauté the garlic and ginger over medium heat for 1-2 minutes. Add the curry powder, turmeric, and crushed red pepper and sauté for one minute more.</li>
+<li>Add the ground beef to the skillet with the spices and sauté until the beef is cooked through.</li>
+<li>While the beef is cooking, peel and cube the potato into ½-inch pieces.</li>
+<li>Add the cubed potato and beef broth to the skillet. Stir to combine with the ground beef. Place a lid on the skillet and turn the heat up to medium-high. Allow the broth to come up to a boil.</li>
+<li>Once the broth reaches a boil, turn the heat down to medium-low and allow it to continue to simmer for 10 minutes with the lid in place (stir occasionally). After ten minutes, the potatoes should be tender. Remove the lid and simmer for a few more minutes, or until most of the broth is evaporated.</li>
+<li>Finally, stir the frozen peas into the beef and potato mixture and heat through. Give the curry beef a taste and add salt to taste (about ½ tsp). Top with sliced green onions and serve hot.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org65d3dcb" class="outline-2">
+<h2 id="org65d3dcb"><span class="section-number-2">5.</span> Sheet Pan Chicken Fajitas</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org8751d1d" class="outline-3">
+<h3 id="org8751d1d"><span class="section-number-3">5.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-5-1">
+<ul class="org-ul">
+<li>1 Tbsp chili powder ($0.30)</li>
+<li>1/2 Tbsp paprika ($0.15)</li>
+<li>1/2 tsp onion powder ($0.05)</li>
+<li>1/4 tsp garlic powder ($0.03)</li>
+<li>1/4 tsp cumin ($0.03)</li>
+<li>1/8 tsp cayenne pepper ($0.02)</li>
+<li>1 tsp sugar ($0.02)</li>
+<li>1/2 tsp salt ($0.02)</li>
+<li>2 small yellow onions (or one large) ($0.57)</li>
+<li>3 bell peppers, any color ($3.69)</li>
+<li>1 lb. chicken breast ($6.24)</li>
+<li>2 Tbsp cooking oil ($0.08)</li>
+<li>1 lime ($0.30)</li>
+<li>8 6-inch tortillas ($1.28)</li>
+<li>1/2 cup sour cream (optional) ($0.90)</li>
+<li>1/4 bunch cilantro (optional) ($0.22)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0954b09" class="outline-3">
+<h3 id="org0954b09"><span class="section-number-3">5.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-5-2">
+<ol class="org-ol">
+<li>Preheat the oven to 400ºF. Mix all of the spices for the fajita seasoning in a small bowl and set aside (chili powder, paprika, onion powder, garlic powder, cumin, cayenne pepper, sugar, and salt).</li>
+<li>Cut the onion and bell peppers into 1/4-inch wide strips. Slice the chicken breast into thin strips. Add the chicken and vegetables to a large baking sheet or casserole dish.</li>
+<li>Drizzle the cooking oil over the chicken and vegetables, then sprinkle the fajita seasoning mix over top. Use your hands to toss the ingredients until everything is well coated in oil and seasoning. Spread the chicken and vegetables out over the baking sheet evenly.</li>
+<li>Bake the chicken and vegetables in the preheated oven for 35-40 minutes, stirring once halfway through. Squeeze the juice from half of the lime over top of the meat and vegetables after they come out of the oven.</li>
+<li>To serve, scoop a small amount of meat and vegetables into the center of each tortilla. Top with a few sprigs of cilantro, a dollop of sour cream, and an extra squeeze of lime if desired.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc90635f" class="outline-2">
+<h2 id="orgc90635f"><span class="section-number-2">6.</span> Sesame Cucumber Salad</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org47c33be" class="outline-3">
+<h3 id="org47c33be"><span class="section-number-3">6.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-6-1">
+<ul class="org-ul">
+<li>1/3 cup rice vinegar ($0.70)</li>
+<li>2 Tbsp granulated sugar ($0.02)</li>
+<li>1/2 tsp toasted sesame oil ($0.05)</li>
+<li>1/4 tsp crushed red pepper ($0.02)</li>
+<li>1/2 tsp salt ($0.02)</li>
+<li>2 large cucumbers ($1.38)</li>
+<li>3 green onions ($0.13)</li>
+<li>1/4 cup chopped cashews ($0.12)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org61c2641" class="outline-3">
+<h3 id="org61c2641"><span class="section-number-3">6.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-6-2">
+<ol class="org-ol">
+<li>In a small bowl, combine the rice vinegar, sugar, sesame oil, crushed red pepper, and salt. Set the dressing aside.</li>
+<li>Peel and slice the cucumber using your favorite method (see photos below for my technique). Place the sliced cucumbers in a large bowl.</li>
+<li>Chop the cashews into smaller pieces. Slice the green onions.</li>
+<li>Add the cashews, green onions, and dressing to the sliced cucumbers. Stir to combine. Serve immediately or refrigerate until ready to eat. Give the salad a brief stir before serving to redistribute the dressing and flavors.</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org9a94f44" class="outline-3">
+<h3 id="org9a94f44"><span class="section-number-3">6.3.</span> Notes</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Recipe originally called for peanuts - changed to cashew
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgea1ceb0" class="outline-2">
+<h2 id="orgea1ceb0"><span class="section-number-2">7.</span> Coconut Rice</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-org6410e94" class="outline-3">
+<h3 id="org6410e94"><span class="section-number-3">7.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-7-1">
+<ul class="org-ul">
+<li>1 1/2 cups long-grain jasmine rice ($0.48)</li>
+<li>1 clove garlic, minced ($0.08)</li>
+<li>3/4 tsp salt ($0.03)</li>
+<li>1 13.5oz. can coconut milk ($2.29)</li>
+<li>1 cup water ($0.00)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0bb082b" class="outline-3">
+<h3 id="org0bb082b"><span class="section-number-3">7.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-7-2">
+<ol class="org-ol">
+<li>Rinse the jasmine rice using a wire mesh strainer or a bowl, making sure to pour off as much excess water as possible. Add the rinsed rice to a pot along with the minced garlic and salt.</li>
+<li>Add the coconut milk and water to the pot. Give the rice a brief stir.</li>
+<li>Place a lid on the pot, turn the heat up to high, and allow the liquid to come up to a full boil. Once it reaches a full boil, turn the heat down to low. Allow the rice to simmer over low for 15 minutes. Make sure the pot maintains a simmer. Do not stir or lift the lid as the rice simmers.</li>
+<li>After simmering for 15 minutes, remove the pot from the heat and let the rice rest an additional 5 minutes without lifting the lid. Finally, after the rice has rested, you lift the lid and fluff with a fork. Serve hot.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge9e8f80" class="outline-2">
+<h2 id="orge9e8f80"><span class="section-number-2">8.</span> Honey Sriracha Tofu</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-orge2263c8" class="outline-3">
+<h3 id="orge2263c8"><span class="section-number-3">8.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-8-1">
+<ul class="org-ul">
+<li>14 oz. extra firm tofu ($1.79)</li>
+<li>2 Tbsp sriracha ($0.22)</li>
+<li>2 Tbsp honey ($0.24)</li>
+<li>2 tsp soy sauce, divided ($0.04)</li>
+<li>1/4 tsp crushed red pepper ($0.02)</li>
+<li>2 Tbsp cooking oil ($0.08)</li>
+<li>1 Tbsp cornstarch ($0.03)</li>
+<li>2 green onions, sliced ($0.22)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgfac1621" class="outline-3">
+<h3 id="orgfac1621"><span class="section-number-3">8.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-8-2">
+<ol class="org-ol">
+<li>Press the tofu for 30 minutes to remove the excess moisture. You can do this by either using a tofu press, or placing the block of tofu on a rimmed plate or tray, then topping with something flat like a cutting board and placing a heavy object on top (cast iron skillet or pot of water). After pressing for 30 minutes, pour off the extra liquid.</li>
+<li>While the tofu is pressing, make the honey sriracha sauce. In a small bowl, combine the sriracha, honey, 1 teaspoon soy sauce, and the crushed red pepper. Set the sauce aside.</li>
+<li>Cut the pressed tofu into ½-inch cubes. Use a paper towel to lightly pat dry the tofu cubes.</li>
+<li>Add the cooking oil and 1 teaspoon soy sauce to a large bowl. Lightly whisk the soy sauce into the oil. Add the cubed tofu and gently stir until the tofu is coated in oil and soy sauce.</li>
+<li>Sprinkle 1 teaspoon cornstarch over the cubed tofu and gently stir. Repeat two more times, or until 3 teaspoon ( 1 Tablespoon) cornstarch has been added to the tofu.</li>
+<li>Heat a non-stick skillet over medium. When the skillet is hot, add the prepared tofu. The tofu will fry in the oil that is coating the cubes. Cook the tofu, stirring only occasionally, until it is brown and crispy on all sides (about 10 minutes).</li>
+<li>Pour the honey sriracha sauce over the tofu and continue to stir and cook for 1-2 more minutes, or until the glaze is thick and sticky.</li>
+<li>Top the honey sriracha tofu with sliced green onions and serve.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org51128ab" class="outline-2">
+<h2 id="org51128ab"><span class="section-number-2">9.</span> Easy Teriyaki Chicken</h2>
+<div class="outline-text-2" id="text-9">
+</div>
+<div id="outline-container-orga650c45" class="outline-3">
+<h3 id="orga650c45"><span class="section-number-3">9.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-9-1">
+<ul class="org-ul">
+<li>1/4 cup soy sauce ($0.24)</li>
+<li>3 Tbsp brown sugar ($0.12)</li>
+<li>1 Tbsp water ($0.00)</li>
+<li>1 clove garlic, minced ($0.08)</li>
+<li>1 tsp grated fresh ginger ($0.10)</li>
+<li>2 Tbsp cooking oil, divided ($0.08)</li>
+<li>1.75 lbs. boneless, skinless chicken thighs ($5.72)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge2fdf75" class="outline-3">
+<h3 id="orge2fdf75"><span class="section-number-3">9.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-9-2">
+<ol class="org-ol">
+<li>Prepare the marinade first. Stir together the soy sauce, brown sugar, water, garlic, ginger, and 1 Tbsp of the cooking oil in a bowl.</li>
+<li>Place the chicken in a shallow bowl or dish, then pour the marinade over top. Turn the chicken a couple of times to make sure it&rsquo;s well coated. Let the chicken marinate for 30 minutes to one day (refrigerated), turning the chicken occasionally as it marinates.</li>
+<li>When ready to cook the chicken, heat the remaining 1 Tbsp cooking oil in a large skillet over medium heat. Once hot, add the chicken, discarding the remaining used marinade.</li>
+<li>Cook the chicken for about 5-7 minutes on each side or until cooked through and the liquid in the skillet has reduced to a light coating of glaze on the chicken.</li>
+<li>Transfer the chicken to a cutting board and let it rest for about 5 minutes before slicing and serving.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org930f160" class="outline-2">
+<h2 id="org930f160"><span class="section-number-2">10.</span> Gluten Free Pie Crust</h2>
+<div class="outline-text-2" id="text-10">
+</div>
+<div id="outline-container-org61d00c4" class="outline-3">
+<h3 id="org61d00c4"><span class="section-number-3">10.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-10-1">
+<ul class="org-ul">
+<li>1 cup + 2 Tbsp brown rice flour mix</li>
+<li>2 Tbsp sweet rice flour</li>
+<li>1 Tbsp sugar</li>
+<li>1/2 tsp xanthan gum</li>
+<li>1/4 tsp salt</li>
+<li>6 Tbsp cold unsalted butter, cut into six pieces</li>
+<li>1 large egg</li>
+<li>2 teaspoons orange juice or lemon juice</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org30718d4" class="outline-3">
+<h3 id="org30718d4"><span class="section-number-3">10.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-10-2">
+<ol class="org-ol">
+<li>Mix the flours, sugar, xanthan gum, and salt in the large bowl of an electric mixer.</li>
+<li>Add the butter and mix until the mixture is crumbly and resembles a coarse meal.</li>
+<li>Add the egg and orange juice. Mix on low speed until the dough holds together; it should not be sticky. Form the dough into a ball using your hands and place on a sheet of wax paper. Top with a second sheet of wax paper and flatten the dough to 1-inch thickness.
+<ol class="org-ol">
+<li>The dough can be frozen at this point for up to one month; wrap in plastic wrap and then use foil as an outer wrap on top of the plastic</li>
+</ol></li>
+<li>Roll out the dough between the two sheets of wax paper. If the dough seems tacky, refrigerate for 15 minutes before proceeding. Remove the top sheet of wax paper and inver the dough into a pie pan. Remove the remaining sheet of wax paper and crimp the edges for a single crust pie.
+<ol class="org-ol">
+<li>If you are going to use the crust to make a regular pie, the dough can also be frozen after it is in the pie pan for up to one month; line the pie shell with wax paper, wrap in plastic wrap, and use foil as an outer wrap.</li>
+</ol></li>
+<li><p>
+To prebake a bottom pie crust:
+</p>
+
+<p>
+Preheat the oven to 375F. Gently prick the pastry in 3 or 4 places with a fork. Bake the pastry for about 25 minutes or until golden. Remove the oven and cool completely on a wire rack.
+</p>
+<ol class="org-ol">
+<li>Prebaked pie shells can be stored in airtight plastic containers or plastic wrap in the refrigerator for three days. For longer storage, wrap in plastic wrap and then foil and store in the freezer for up to two weeks.</li>
+</ol></li>
+
+<li><p>
+To partially bake a bottom pie crust:
+</p>
+
+<p>
+Preheat the oven to 375F. Bake the pastry for 10 minutes. Remove from the oven. Fill and bake as per recipe. Partially bake the pie crust whenever you are making a fruit pie or quiche.
+</p></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org16fb511" class="outline-3">
+<h3 id="org16fb511"><span class="section-number-3">10.3.</span> Notes</h3>
+<div class="outline-text-3" id="text-10-3">
+<p>
+I make a double recipe, since a single recipe isn&rsquo;t quite enough for my pie tin
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org8d60f4d" class="outline-2">
+<h2 id="org8d60f4d"><span class="section-number-2">11.</span> Blueberry Pie Filling</h2>
+<div class="outline-text-2" id="text-11">
+</div>
+<div id="outline-container-org1c64719" class="outline-3">
+<h3 id="org1c64719"><span class="section-number-3">11.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-11-1">
+<ul class="org-ul">
+<li>4 cups fresh blueberries, rinsed and well drained</li>
+<li>1 cup sugar</li>
+<li>3 Tbsp cornstarch</li>
+<li>1/4 tsp salt</li>
+<li>1/4 cup water</li>
+<li>1 tsp lemon juice</li>
+<li>1 Tbsp butter</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9bf85a7" class="outline-3">
+<h3 id="org9bf85a7"><span class="section-number-3">11.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-11-2">
+<ol class="org-ol">
+<li>Line the baked and cooled pie crust with 2 cups blueberries.</li>
+<li>In a medium saucepan, mix together sugar, cornstarch, and salt.</li>
+<li>Add remaining blueberries, water, and lemon juice. Mix well.</li>
+<li>Cook over medium heat until thickened.</li>
+<li>Remove from heat. Add butter. Cool.</li>
+<li>Pour over berries in pie crust.</li>
+<li>Chill until serving time.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org997d814" class="outline-2">
+<h2 id="org997d814"><span class="section-number-2">12.</span> Whipping Cream</h2>
+<div class="outline-text-2" id="text-12">
+</div>
+<div id="outline-container-org69559ed" class="outline-3">
+<h3 id="org69559ed"><span class="section-number-3">12.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-12-1">
+<ul class="org-ul">
+<li>1 pint whipping cream</li>
+<li>1 tsp vanilla</li>
+<li>3 Tbsp powdered sugar</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org34621c0" class="outline-3">
+<h3 id="org34621c0"><span class="section-number-3">12.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-12-2">
+<ol class="org-ol">
+<li>Mix ingredients together until stiff peaks form.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org67aaa5d" class="outline-2">
+<h2 id="org67aaa5d"><span class="section-number-2">13.</span> Butternut Squash Curry</h2>
+<div class="outline-text-2" id="text-13">
+</div>
+<div id="outline-container-org7daa29f" class="outline-3">
+<h3 id="org7daa29f"><span class="section-number-3">13.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-13-1">
+<ul class="org-ul">
+<li>2 lbs. butternut squash (about 4 cups diced) ($1.78)</li>
+<li>1 yellow onion ($0.37)</li>
+<li>2 cloves garlic ($0.16)</li>
+<li>1 Tbsp grated fresh ginger ($0.30)</li>
+<li>2 Tbsp olive oil ($0.32)</li>
+<li>1 Tbsp curry powder ($0.30)</li>
+<li>1 tsp ground cumin ($0.10)</li>
+<li>1 15oz. can fire roasted diced tomatoes ($1.09)</li>
+<li>1/2 cup water ($0.00)</li>
+<li>1 13.5oz can full-fat coconut milk ($2.29)</li>
+<li>2 oz. fresh spinach ($0.50)</li>
+<li>1/2 tsp salt (or to taste) ($0.02)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3540525" class="outline-3">
+<h3 id="org3540525"><span class="section-number-3">13.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-13-2">
+<ol class="org-ol">
+<li>Peel and dice the butternut squash into ½-inch pieces. Dice the onion, mince the garlic, and grate the ginger.</li>
+<li>Heat a large skillet over medium. Add the olive oil, onion, garlic, and ginger, and sauté for a few minutes, or until the onions are translucent. Add the curry powder and cumin and sauté for one minute more.</li>
+<li>Add the diced tomatoes and water to the skillet. Stir to combine and dissolve any browned bits off the bottom of the skillet.</li>
+<li>Add the diced butternut squash and stir to combine. Place a lid on the skillet and let the squash simmer in the sauce for about 10 minutes, or just until fork-tender.</li>
+<li>Add the coconut milk to the skillet, stir to combine, and heat through.</li>
+<li>Once the sauce is hot again, add the fresh spinach. Stir to combine and allow the spinach to wilt in the hot sauce. Season the curry to taste with salt, then enjoy!</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge4546ed" class="outline-2">
+<h2 id="orge4546ed"><span class="section-number-2">14.</span> Hearty Black Bean Quesadillas</h2>
+<div class="outline-text-2" id="text-14">
+</div>
+<div id="outline-container-org83db136" class="outline-3">
+<h3 id="org83db136"><span class="section-number-3">14.1.</span> Ingredients</h3>
+<div class="outline-text-3" id="text-14-1">
+<ul class="org-ul">
+<li>1 15oz.can black beans ($0.49)</li>
+<li>1 cup frozen corn ($0.20)</li>
+<li>1/2 cup red onion ($0.22)</li>
+<li>1 clove garlic ($0.08)</li>
+<li>1/4 bunch fresh cilantro (about ½ cup chopped) ($0.20)</li>
+<li>2 cups shredded cheddar cheese ($1.69)</li>
+<li>1 batch taco seasoning* ($0.67)</li>
+<li>10 flour tortillas (7-inch diameter) ($2.00)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgefbefd8" class="outline-3">
+<h3 id="orgefbefd8"><span class="section-number-3">14.2.</span> Directions</h3>
+<div class="outline-text-3" id="text-14-2">
+<ol class="org-ol">
+<li>Drain the black beans and add them to a bowl along with the frozen corn (no need to thaw)</li>
+<li>Finely dice the onion, mince the garlic, and roughly chop the cilantro.</li>
+<li>Add the onion, garlic, cilantro, shredded cheddar, and taco seasoning to the bowl with the beans and corn. Stir until everything is evenly combined and coated in seasoning.</li>
+<li>Place a half cup of the filling on one side of each tortilla and fold over. Cook the quesadillas in a skillet over medium heat on each side until brown and crispy and the cheesy filling has melted. Slice into triangles then serve.</li>
+<li>To freeze the quesadillas, stack the filled and uncooked quesadillas with a piece of parchment paper between each quesadilla. Place in a freezer bag and freeze for up to three months. To reheat either microwave (for a soft quesadilla) or cook in a skillet on low heat (make sure to use low heat so that the filling has time to thaw and melt before the outside burns).</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Kai Aragaki</p>
+<p class="date">Created: 2022-12-28 Wed 13:19</p>
+</div>
+</body>
+</html>
