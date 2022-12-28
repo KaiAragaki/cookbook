@@ -2,3 +2,7 @@ body {
     font-family: "ETBembo", "Allegreya", "Georgia";
     background-color: #FFFFF0;
 }
+
+li {
+    line-height: 150%
+}
