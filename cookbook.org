@@ -1,5 +1,7 @@
+#+HTML_HEAD: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allegreya">
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="cookbook.css" />
 #+OPTIONS: toc:1
+#+TITLE: Kai's Cookbook
 
 * Parmesan Roasted Potatoes
 :PROPERTIES:
