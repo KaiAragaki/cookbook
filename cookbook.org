@@ -519,6 +519,28 @@ Recipe originally called for peanuts - changed to cashew
 - 5
 - I love it. Other people love it. Chopping is a minor pain but it's not so bad. It could probably be fine with another jalapeno in there.
 
+** Chipotle Peach Salsa
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/chipotle-peach-salsa/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+- 2 lbs. ripe peaches ($1.56)
+- 1/4 red onion ($0.11)
+- 2 cloves garlic ($0.16)
+- 1 tsp grated fresh ginger ($0.10)
+- 2 chipotle peppers in adobo ($0.20)
+- 1/2 bunch cilantro ($0.45)
+- 1 lime ($0.59)
+- 1/2 tsp salt ($0.02)
+*** Directions
+1. Dice the peaches into small pieces (peeling is not necessary). Finely dice the onion, mince the garlic, grate the ginger, mince the chipotle peppers, roughly chop the cilantro, and squeeze the juice from the lime.
+2. Add the peaches, onion, garlic, and ginger to a bowl. Add one of the minced chipotle peppers, 1 Tbsp lime juice, and 1/4 tsp salt to begin with. Stir the ingredients to combine. Taste the salsa and adjust the salt, lime, or chipotle to your liking (I used 2 chipotle peppers, 2 Tbsp lime juice, and ½ tsp salt total).
+3. Serve immediately or refrigerate until ready to eat.
+
 * Other
 
 ** Gluten Free Pie Crust
