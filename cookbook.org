@@ -1,33 +1,26 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allegreya">
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="cookbook.css" />
-#+OPTIONS: toc:1
+#+OPTIONS: toc:2
 #+TITLE: Kai's Cookbook
 
-* Parmesan Roasted Potatoes
-:PROPERTIES:
-:source-url: https://www.budgetbytes.com/parmesan-roasted-potatoes/
-:cook-time:
-:servings:
-:prep-time:
-:ready-in:
-:END:
-** Ingredients
-- 2 lbs. red potatoes ($2.58)
-- 2 Tbsp olive oil ($0.32)
-- 1/3 cup grated Parmesan ($0.59)
-- 1/2 tsp garlic powder ($0.05)
-- 1/2 tsp paprika ($0.05)
-- 1/4 tsp salt ($0.02)
-- 1/4 tsp Freshly cracked black pepper ($0.02)
-- 2 Tbsp chopped fresh parsley (optional) ($0.20)
-** Directions
-1. Preheat the oven to 400ºF. Wash the potatoes, then cut into 1-inch pieces. Place the chopped potatoes in a large bowl
-2. In a small bowl, stir together the grated Parmesan, garlic powder, paprika, salt, and pepper.
-3. Drizzle the olive oil over the potatoes, then toss to coat. Sprinkle the Parmesan mixture over the potatoes, then toss to coat again.
-4. Spread the potatoes out over a large baking sheet (lined with parchment for easy cleanup, if desired) with cut sides facing down.
-5. Roast the potatoes in the oven for 30 minutes then give them a good stir. Return the potatoes to the oven and roast for an additional 5-10 minutes, or until well browned.
-6. Season the potatoes with another pinch of salt, if desired, then garnish with parsley and serve.
-* Creamy Sweet Potato Soup
+* Introduction
+
+Welcome to my cookbook!
+
+Most of these recipes are ones that I've stolen from around the web. Some I've stolen from my parents. This is mostly just a personal reference for me so I don't have to use the increasingly heavy cooking websites pages.
+
+When I feel like it, I'll add notes to things describing tips (usually for myself) and ratings.
+
+If I do remember to rate something, here's a reminder as to how I should score things:
+
+- 1: I hate this dish. I didn't even finish the stuff I made for me, and I would avoid eating it if offered to me.
+- 2: I don't really like this dish. I wouldn't make it again, but I would probably eat it if it were served to me.
+- 3: I don't have any strong feelings about this dish. I would make it again if it was exceptionally quick to make, but I wouldn't seek it out.
+- 4: I like this dish. I would make it again, and would serve it to someone if they were at my house and happened to need some food.
+- 5: I love this dish. I will make it again, even if it is somewhat challenging or time consuming to make. I would bring this to an event as a dish.
+
+* Main Dishes
+** Creamy Sweet Potato Soup
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/creamy-sweet-potato-soup/
 :servings:
@@ -35,7 +28,7 @@
 :cook-time:
 :ready-in:
 :END:
-** Ingredients
+*** Ingredients
 - 2 lbs. sweet potatoes ($1.98)
 - 2 Tbsp olive oil, divided ($0.32)
 - 1 yellow onion ($0.32)
@@ -48,7 +41,7 @@
 - 4 cups chicken broth ($0.52)
 - 1/2 cup heavy cream ($0.50)
 - 1/4 tsp salt (or to taste) ($0.02)
-** Directions
+*** Directions
 1. Preheat the oven to 400ºF. Line a baking sheet with parchment paper. Slice the sweet potatoes in half lengthwise, then prick the skins a few times with a fork. Rub 1 tablespoon olive oil over all surfaces of the sweet potatoes, then place them face down on the baking sheet.
 2. Transfer the baking sheet to the preheated oven and roast for 30 minutes. After roasting for 30 minutes, check to see if they are tender all the way through (pierce with a fork). If not tender, return them to the oven for about 10 minutes and check again. Total roasting time will depend on the size of your potatoes. Allow the sweet potatoes to cool slightly after roasting.
 3. While the sweet potatoes are cooling, dice the onion and mince the garlic. Add the onion and garlic to a skillet along with the remaining 1 tablespoon olive oil. Sauté the onion and garlic over medium heat until the onions are soft.
@@ -56,7 +49,7 @@
 5. Scoop the slightly cooled sweet potato flesh out of their skins and into a blender (6 cup capacity or larger). Also add the onion mixture and 2 cups chicken broth (swirl a little bit of the broth in the skillet first to pick up all the spices). Purée the mixture until smooth.
 6. Transfer the puréed sweet potato mixture to a soup pot and add an additional 1 to 2 cups chicken broth (less for a really thick soup, more for a more liquid soup). Heat the soup through over medium heat.
 7. Stir the heavy cream into the soup, then taste and adjust the salt or pepper if needed. Serve hot.
-* Thai Coconut Curry Braised Chicken Thighs
+** Thai Coconut Curry Braised Chicken Thighs
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/thai-coconut-curry-braised-chicken-thighs/
 :servings:
@@ -64,7 +57,7 @@
 :cook-time:
 :ready-in:
 :END:
-** Ingredients
+*** Ingredients
 - 1 Tbsp cooking oil ($0.04)
 - 5 boneless, skinless chicken thighs ($5.30)
 - 2 Tbsp red Thai curry paste ($0.62)
@@ -77,12 +70,12 @@
 - 1/4 bunch fresh cilantro ($0.20)
 - 2-3 green onions ($0.17)
 - 1 lime ($0.33)
-** Directions
+*** Directions
 1. Heat a large deep skillet or soup pot over medium heat. Add the cooking oil, then swirl to cover the surface of the skillet. Add the chicken thighs to the skillet and cook until browned on each side (about 3-5 minutes each side). Remove the chicken from the skillet.
 2. Add the Thai curry paste, minced garlic, and grated ginger to the skillet. Stir and sauté the aromatics for about one minute.
 3. Add the coconut milk, chicken broth, and fish sauce to the skillet. Stir to combine and dissolve any browned bits off the bottom of the skillet. Add the chicken back to the skillet, place a lid on top, and allow the skillet come to a simmer. Turn the heat down to low or medium-low and let the thighs simmer in the coconut sauce for 15 minutes.
 4. To serve, scoop about 1 cup of cooked rice into the bottom of each bowl. Add one of the braised chicken thighs, then top with a ladle or two of the coconut broth. Add fresh cilantro leaves, sliced green onion, and a wedge or two of fresh lime to each bowl.
-* Curry Beef with Peas
+** Curry Beef with Peas
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/curry-beef-with-peas/
 :servings:
@@ -90,7 +83,7 @@
 :cook-time:
 :ready-in:
 :END:
-** Ingredients
+*** Ingredients
 - 4 cloves garlic, minced ($0.32)
 - 1 tsp grated fresh ginger ($0.10)
 - 2 Tbsp cooking oil ($0.08)
@@ -103,14 +96,14 @@
 - 1 cup frozen peas ($0.50)
 - 1/2 tsp salt ($0.02)
 - 2 green onions, sliced (optional) ($0.22)
-** Directions
+*** Directions
 1. Add the minced garlic, grated ginger, and cooking oil to a large deep skillet. Sauté the garlic and ginger over medium heat for 1-2 minutes. Add the curry powder, turmeric, and crushed red pepper and sauté for one minute more.
 2. Add the ground beef to the skillet with the spices and sauté until the beef is cooked through.
 3. While the beef is cooking, peel and cube the potato into ½-inch pieces.
 4. Add the cubed potato and beef broth to the skillet. Stir to combine with the ground beef. Place a lid on the skillet and turn the heat up to medium-high. Allow the broth to come up to a boil.
 5. Once the broth reaches a boil, turn the heat down to medium-low and allow it to continue to simmer for 10 minutes with the lid in place (stir occasionally). After ten minutes, the potatoes should be tender. Remove the lid and simmer for a few more minutes, or until most of the broth is evaporated.
 6. Finally, stir the frozen peas into the beef and potato mixture and heat through. Give the curry beef a taste and add salt to taste (about ½ tsp). Top with sliced green onions and serve hot.
-* Sheet Pan Chicken Fajitas
+** Sheet Pan Chicken Fajitas
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/oven-fajitas/
 :servings:
@@ -118,7 +111,7 @@
 :cook-time:
 :ready-in:
 :END:
-** Ingredients
+*** Ingredients
 - 1 Tbsp chili powder ($0.30)
 - 1/2 Tbsp paprika ($0.15)
 - 1/2 tsp onion powder ($0.05)
@@ -135,61 +128,14 @@
 - 8 6-inch tortillas ($1.28)
 - 1/2 cup sour cream (optional) ($0.90)
 - 1/4 bunch cilantro (optional) ($0.22)
-** Directions
+*** Directions
 1. Preheat the oven to 400ºF. Mix all of the spices for the fajita seasoning in a small bowl and set aside (chili powder, paprika, onion powder, garlic powder, cumin, cayenne pepper, sugar, and salt).
 2. Cut the onion and bell peppers into 1/4-inch wide strips. Slice the chicken breast into thin strips. Add the chicken and vegetables to a large baking sheet or casserole dish.
 3. Drizzle the cooking oil over the chicken and vegetables, then sprinkle the fajita seasoning mix over top. Use your hands to toss the ingredients until everything is well coated in oil and seasoning. Spread the chicken and vegetables out over the baking sheet evenly.
 4. Bake the chicken and vegetables in the preheated oven for 35-40 minutes, stirring once halfway through. Squeeze the juice from half of the lime over top of the meat and vegetables after they come out of the oven.
 5. To serve, scoop a small amount of meat and vegetables into the center of each tortilla. Top with a few sprigs of cilantro, a dollop of sour cream, and an extra squeeze of lime if desired.
 
-* Sesame Cucumber Salad
-:PROPERTIES:
-:source-url: https://www.budgetbytes.com/thai-cucumber-salad-2/
-:servings:
-:prep-time:
-:cook-time:
-:ready-in:
-:END:
-** Ingredients
-
-- 1/3 cup rice vinegar ($0.70)
-- 2 Tbsp granulated sugar ($0.02)
-- 1/2 tsp toasted sesame oil ($0.05)
-- 1/4 tsp crushed red pepper ($0.02)
-- 1/2 tsp salt ($0.02)
-- 2 large cucumbers ($1.38)
-- 3 green onions ($0.13)
-- 1/4 cup chopped cashews ($0.12)
-** Directions
-
-1. In a small bowl, combine the rice vinegar, sugar, sesame oil, crushed red pepper, and salt. Set the dressing aside.
-2. Peel and slice the cucumber using your favorite method (see photos below for my technique). Place the sliced cucumbers in a large bowl.
-3. Chop the cashews into smaller pieces. Slice the green onions.
-4. Add the cashews, green onions, and dressing to the sliced cucumbers. Stir to combine. Serve immediately or refrigerate until ready to eat. Give the salad a brief stir before serving to redistribute the dressing and flavors.
-** Notes
-Recipe originally called for peanuts - changed to cashew
-* Coconut Rice
-:PROPERTIES:
-:source-url: https://www.budgetbytes.com/coconut-rice-take-2/
-:servings:
-:prep-time:
-:cook-time:
-:ready-in:
-:END:
-** Ingredients
-
-- 1 1/2 cups long-grain jasmine rice ($0.48)
-- 1 clove garlic, minced ($0.08)
-- 3/4 tsp salt ($0.03)
-- 1 13.5oz. can coconut milk ($2.29)
-- 1 cup water ($0.00)
-** Directions
-1. Rinse the jasmine rice using a wire mesh strainer or a bowl, making sure to pour off as much excess water as possible. Add the rinsed rice to a pot along with the minced garlic and salt.
-2. Add the coconut milk and water to the pot. Give the rice a brief stir.
-3. Place a lid on the pot, turn the heat up to high, and allow the liquid to come up to a full boil. Once it reaches a full boil, turn the heat down to low. Allow the rice to simmer over low for 15 minutes. Make sure the pot maintains a simmer. Do not stir or lift the lid as the rice simmers.
-4. After simmering for 15 minutes, remove the pot from the heat and let the rice rest an additional 5 minutes without lifting the lid. Finally, after the rice has rested, you lift the lid and fluff with a fork. Serve hot.
-
-* Honey Sriracha Tofu
+** Honey Sriracha Tofu
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/honey-sriracha-tofu/
 :servings:
@@ -197,7 +143,7 @@ Recipe originally called for peanuts - changed to cashew
 :cook-time:
 :ready-in:
 :END:
-** Ingredients
+*** Ingredients
 
 - 14 oz. extra firm tofu ($1.79)
 - 2 Tbsp sriracha ($0.22)
@@ -207,7 +153,7 @@ Recipe originally called for peanuts - changed to cashew
 - 2 Tbsp cooking oil ($0.08)
 - 1 Tbsp cornstarch ($0.03)
 - 2 green onions, sliced ($0.22)
-** Directions
+*** Directions
 1. Press the tofu for 30 minutes to remove the excess moisture. You can do this by either using a tofu press, or placing the block of tofu on a rimmed plate or tray, then topping with something flat like a cutting board and placing a heavy object on top (cast iron skillet or pot of water). After pressing for 30 minutes, pour off the extra liquid.
 2. While the tofu is pressing, make the honey sriracha sauce. In a small bowl, combine the sriracha, honey, 1 teaspoon soy sauce, and the crushed red pepper. Set the sauce aside.
 3. Cut the pressed tofu into ½-inch cubes. Use a paper towel to lightly pat dry the tofu cubes.
@@ -216,7 +162,7 @@ Recipe originally called for peanuts - changed to cashew
 6. Heat a non-stick skillet over medium. When the skillet is hot, add the prepared tofu. The tofu will fry in the oil that is coating the cubes. Cook the tofu, stirring only occasionally, until it is brown and crispy on all sides (about 10 minutes).
 7. Pour the honey sriracha sauce over the tofu and continue to stir and cook for 1-2 more minutes, or until the glaze is thick and sticky.
 8. Top the honey sriracha tofu with sliced green onions and serve.
-* Easy Teriyaki Chicken
+** Easy Teriyaki Chicken
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/easy-teriyaki-chicken/
 :servings:
@@ -224,7 +170,7 @@ Recipe originally called for peanuts - changed to cashew
 :cook-time:
 :ready-in:
 :END:
-** Ingredients
+*** Ingredients
 
 - 1/4 cup soy sauce ($0.24)
 - 3 Tbsp brown sugar ($0.12)
@@ -233,68 +179,17 @@ Recipe originally called for peanuts - changed to cashew
 - 1 tsp grated fresh ginger ($0.10)
 - 2 Tbsp cooking oil, divided ($0.08)
 - 1.75 lbs. boneless, skinless chicken thighs ($5.72)
-** Directions
+*** Directions
 1. Prepare the marinade first. Stir together the soy sauce, brown sugar, water, garlic, ginger, and 1 Tbsp of the cooking oil in a bowl.
 2. Place the chicken in a shallow bowl or dish, then pour the marinade over top. Turn the chicken a couple of times to make sure it's well coated. Let the chicken marinate for 30 minutes to one day (refrigerated), turning the chicken occasionally as it marinates.
 3. When ready to cook the chicken, heat the remaining 1 Tbsp cooking oil in a large skillet over medium heat. Once hot, add the chicken, discarding the remaining used marinade.
 4. Cook the chicken for about 5-7 minutes on each side or until cooked through and the liquid in the skillet has reduced to a light coating of glaze on the chicken.
 5. Transfer the chicken to a cutting board and let it rest for about 5 minutes before slicing and serving.
-* Gluten Free Pie Crust
-** Ingredients
-- 1 cup + 2 Tbsp brown rice flour mix
-- 2 Tbsp sweet rice flour
-- 1 Tbsp sugar
-- 1/2 tsp xanthan gum
-- 1/4 tsp salt
-- 6 Tbsp cold unsalted butter, cut into six pieces
-- 1 large egg
-- 2 teaspoons orange juice or lemon juice
-** Directions
-1. Mix the flours, sugar, xanthan gum, and salt in the large bowl of an electric mixer.
-2. Add the butter and mix until the mixture is crumbly and resembles a coarse meal.
-3. Add the egg and orange juice. Mix on low speed until the dough holds together; it should not be sticky. Form the dough into a ball using your hands and place on a sheet of wax paper. Top with a second sheet of wax paper and flatten the dough to 1-inch thickness.
-   1. The dough can be frozen at this point for up to one month; wrap in plastic wrap and then use foil as an outer wrap on top of the plastic
-4. Roll out the dough between the two sheets of wax paper. If the dough seems tacky, refrigerate for 15 minutes before proceeding. Remove the top sheet of wax paper and inver the dough into a pie pan. Remove the remaining sheet of wax paper and crimp the edges for a single crust pie.
-   1. If you are going to use the crust to make a regular pie, the dough can also be frozen after it is in the pie pan for up to one month; line the pie shell with wax paper, wrap in plastic wrap, and use foil as an outer wrap.
-5. To prebake a bottom pie crust:
-
-   Preheat the oven to 375F. Gently prick the pastry in 3 or 4 places with a fork. Bake the pastry for about 25 minutes or until golden. Remove the oven and cool completely on a wire rack.
-   1. Prebaked pie shells can be stored in airtight plastic containers or plastic wrap in the refrigerator for three days. For longer storage, wrap in plastic wrap and then foil and store in the freezer for up to two weeks.
-
-6. To partially bake a bottom pie crust:
-
-   Preheat the oven to 375F. Bake the pastry for 10 minutes. Remove from the oven. Fill and bake as per recipe. Partially bake the pie crust whenever you are making a fruit pie or quiche.
-** Notes
-I make a double recipe, since a single recipe isn't quite enough for my pie tin
-* Blueberry Pie Filling
-** Ingredients
-- 4 cups fresh blueberries, rinsed and well drained
-- 1 cup sugar
-- 3 Tbsp cornstarch
-- 1/4 tsp salt
-- 1/4 cup water
-- 1 tsp lemon juice
-- 1 Tbsp butter
-** Directions
-1. Line the baked and cooled pie crust with 2 cups blueberries.
-2. In a medium saucepan, mix together sugar, cornstarch, and salt.
-3. Add remaining blueberries, water, and lemon juice. Mix well.
-4. Cook over medium heat until thickened.
-5. Remove from heat. Add butter. Cool.
-6. Pour over berries in pie crust.
-7. Chill until serving time.
-* Whipping Cream
-** Ingredients
-- 1 pint whipping cream
-- 1 tsp vanilla
-- 3 Tbsp powdered sugar
-** Directions
-1. Mix ingredients together until stiff peaks form.
-* Butternut Squash Curry
+** Butternut Squash Curry
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/butternut-squash-curry/
 :END:
-** Ingredients
+*** Ingredients
 - 2 lbs. butternut squash (about 4 cups diced) ($1.78)
 - 1 yellow onion ($0.37)
 - 2 cloves garlic ($0.16)
@@ -307,7 +202,7 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 - 1 13.5oz can full-fat coconut milk ($2.29)
 - 2 oz. fresh spinach ($0.50)
 - 1/2 tsp salt (or to taste) ($0.02)
-** Directions
+*** Directions
 1. Peel and dice the butternut squash into ½-inch pieces. Dice the onion, mince the garlic, and grate the ginger.
 2. Heat a large skillet over medium. Add the olive oil, onion, garlic, and ginger, and sauté for a few minutes, or until the onions are translucent. Add the curry powder and cumin and sauté for one minute more.
 3. Add the diced tomatoes and water to the skillet. Stir to combine and dissolve any browned bits off the bottom of the skillet.
@@ -315,7 +210,34 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 5. Add the coconut milk to the skillet, stir to combine, and heat through.
 6. Once the sauce is hot again, add the fresh spinach. Stir to combine and allow the spinach to wilt in the hot sauce. Season the curry to taste with salt, then enjoy!
 
-* Hearty Black Bean Quesadillas
+** Honey Chipotle Chicken
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/honey-chipotle-chicken/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+- 3 chipotle peppers in adobo sauce ($0.30)
+- 2 Tbsp honey ($0.54)
+- 2 Tbsp  lime juice (about one lime) ($0.59)
+- 1 clove garlic, minced ($0.08)
+- 1/2 tsp salt ($0.02)
+- 2 Tbsp cooking oil, divided ($0.08)
+- 6 boneless, skinless chicken thighs ($6.78)
+- 2 sliced green onions (optional) ($0.22)
+*** Directions
+1. Mince the chipotle peppers. Combine the minced peppers in a bowl with the honey, lime juice, minced garlic, salt, and  1  Tbsp cooking oil.
+2. Place the chicken thighs in a shallow dish and pour the marinade over top. Toss the chicken in the marinade until evenly coated.
+3. Marinate the chicken for a minimum of 30 minutes, up to one day. If marinating longer than one hour, refrigerate the chicken as it marinates.
+4. When ready to cook the chicken, heat a large skillet over medium. Once hot, add the remaining  1  Tbsp cooking oil and swirl to coat the surface of the skillet.
+5. Add the marinated chicken to the skillet and cook on one side until the water released by the chicken evaporates, the marinade has reduced to a glaze, and the chicken has browned. Flip the chicken over and cook on the second side until browned and cooked through.
+6. Top with sliced green onions and serve.
+*** Notes
+- Make sure the pan is actually hot. I had trouble getting a decent browning. Midway on the (current) stove might not be enough for medium
+- The oil is *divided*
+** Hearty Black Bean Quesadillas
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/hearty-black-bean-quesadillas/
 :servings:
@@ -323,7 +245,7 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 :cook-time:
 :ready-in:
 :END:
-** Ingredients
+*** Ingredients
 
 - 1 15oz.can black beans ($0.49)
 - 1 cup frozen corn ($0.20)
@@ -333,37 +255,14 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 - 2 cups shredded cheddar cheese ($1.69)
 - 1 batch taco seasoning ($0.67)
 - 10 flour tortillas (7-inch diameter) ($2.00)
-** Directions
+*** Directions
 1. Drain the black beans and add them to a bowl along with the frozen corn (no need to thaw)
 2. Finely dice the onion, mince the garlic, and roughly chop the cilantro.
 3. Add the onion, garlic, cilantro, shredded cheddar, and taco seasoning to the bowl with the beans and corn. Stir until everything is evenly combined and coated in seasoning.
 4. Place a half cup of the filling on one side of each tortilla and fold over. Cook the quesadillas in a skillet over medium heat on each side until brown and crispy and the cheesy filling has melted. Slice into triangles then serve.
 5. To freeze the quesadillas, stack the filled and uncooked quesadillas with a piece of parchment paper between each quesadilla. Place in a freezer bag and freeze for up to three months. To reheat either microwave (for a soft quesadilla) or cook in a skillet on low heat (make sure to use low heat so that the filling has time to thaw and melt before the outside burns).
 
-* Iceberg with dried oregano dressing and creamy sheep's milk cheese recipe
-:PROPERTIES:
-:source-url: https://www.delicious.com.au/recipes/iceberg-dried-oregano-dressing-creamy-sheeps-milk-cheese-recipe/wr1x9pzg?r=recipes/collections/1vo4q819
-:servings: 6
-:prep-time: Unknown
-:cook-time: Unknown
-:ready-in: Unknown
-:END:
-** Ingredients
-- 2 iceberg lettuces, outer leaves removed
-- 1 bunch chives, snipped
-- 1/2 bunch dill, fronds picked
-- 50-70g creamy sheep’s milk feta (Bulgarian sheep’s milk feta works, or even a Danish cow’s milk feta would be good too)
-- 30g thinly sliced shallot
-- 50ml agrodolce-style white wine vinegar (if you can’t find that, add 2 tsp honey to regular white wine vinegar)
-- 1 tsp salt
-- 1 1/ 2 tsp dried oregano
-- 120ml extra-virgin olive oil
-** Directions
-
-1. First, make your vinaigrette. In a small bowl or jar with a lid, combine the eschalot, vinegar and salt. Leave to macerate for about 15 minutes. Next, add the oregano and olive oil and mix or shake to combine.
-2. Cut your iceberg into thin, long wedges and arrange on a platter. Shake the dressing up just before pouring it over the lettuce. Sprinkle a bit of salt on top, followed by the chives and dill, then shave slices of cheese over the whole thing, or simply crumble it in. Serve immediately.
-
-* Orecchiette with walnut and pea pesto recipe
+** Orecchiette with walnut and pea pesto recipe
 :PROPERTIES:
 :source-url: https://www.delicious.com.au/recipes/orecchiette-walnut-pea-pesto-recipe/ju4lzqcd
 :servings: 4
@@ -371,7 +270,7 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 :cook-time: Unknown
 :ready-in: Unknown
 :END:
-** Ingredients
+*** Ingredients
 
 - 1 cup (100g) walnuts, roasted and cooled, plus extra chopped to serve
 - 1 1/2 cups (180g) frozen peas, blanched and refreshed
@@ -381,44 +280,11 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 - Juice of 1/2 lemon
 - 1 cup (250ml) extra virgin olive oil
 - 400g orecchiette
-** Directions
+*** Directions
 
 1. Place walnuts, peas, herbs, parmesan, garlic, lemon juice and 200ml oil in a blender, and whiz to a coarse paste. Season to taste and place in a large bowl.
 2. Cook pasta in boiling salted water to packet instructions. Drain, reserving 2/3 cup (160ml) cooking water. Add pasta to the pesto in the bowl, then add reserved cooking water. Stir to coat. Top with extra chopped walnuts to serve.
-* Jalapeño Cheddar Cornbread
-:PROPERTIES:
-:source-url: https://www.budgetbytes.com/jalapeno-cheddar-cornbread/
-:servings:
-:prep-time:
-:cook-time:
-:ready-in:
-:END:
-** Ingredients
-
-- 1 tsp butter ($0.04)
-- 1 cup all-purpose flour ($0.15)
-- 1 cup cornmeal ($0.38)
-- 2 Tbsp sugar ($0.04)
-- 1 Tbsp baking powder ($0.06)
-- 3/4 tsp salt ($0.02)
-- 4 oz. cheddar, shredded ($1.00)
-- 2 jalapeños ($0.14)
-- 1/2 cup sour cream ($0.58)
-- 1/2 cup milk ($0.20)
-- 2 large eggs ($0.42)
-- 1/4 cup cooking oil ($0.16)
-** Directions
-
-1. Preheat the oven to 400ºF. Use the butter to grease the inside of an 8×8 inch baking dish.
-2. In a large bowl, combine the flour, cornmeal sugar, baking powder, and salt.
-3. Remove the seeds from one of the jalapeños and finely dice it, then slice the second jalapeño into rounds. Add the diced jalapeño to the bowl with the flour, saving the sliced jalapeño to use as a topping.
-4. Add about ¾ of the shredded cheddar to the bowl with the flour mixture, saving the remaining to use as a topping. Stir the diced jalapeño and shredded cheddar into the flour mixture until evenly combined.
-5. In a separate bowl, whisk together the sour cream, milk, eggs, and oil.
-6. Pour the wet ingredients into the bowl with the dry ingredients and stir just until everything is moist (it's okay if there are a few lumps).
-7. Pour the batter into the prepared baking dish and spread it out evenly. Top with the sliced jalapeños and the remaining shredded cheddar.
-8. Bake the cornbread for about 35 minutes, or until the center has puffed up and the edges are golden brown.
-9. Slice the cornbread into nine squares and serve warm.
-* Creamy White Chicken Chili
+** Creamy White Chicken Chili
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/creamy-white-chicken-chili/
 :servings:
@@ -426,7 +292,7 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 :cook-time:
 :ready-in:
 :END:
-** Ingredients
+*** Ingredients
 
 - 1 yellow onion ($0.37)
 - 4 cloves garlic ($0.34)
@@ -446,7 +312,7 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 - 1 cup frozen corn ($0.47)
 - 4 oz. cream cheese ($1.10)
 - ½ cup sour cream ($0.45)
-** Directions
+*** Directions
 
 1. Dice the onion and mince the garlic. Deseed then dice the jalapeño. Add the onion, garlic, and jalapeño to a large pot with the olive oil. Sauté over medium heat until the onions have softened.
 2. Add the chicken thighs, cannellini beans, pinto beans, diced green chiles, cumin, oregano, smoked paprika, cayenne pepper, garlic powder, pepper, and chicken broth to the pot. Stir to combine.
@@ -454,7 +320,7 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 4. After 30 minutes, remove the chicken thighs and shred with two forks. Add the shredded meat back to the pot along with the corn. Stir to combine and heat through.
 5. Cut the cream cheese into chunks and stir it into the chili until melted. Stir in the sour cream. To further thicken the chili, smash some of the beans against the side of the pot.
 6. Taste the chili and adjust the seasoning to your liking. Serve hot with your favorite toppings!
-* Sheet Pan BBQ Meatballs
+** Sheet Pan BBQ Meatballs
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/sheet-pan-bbq-meatballs/
 :servings:
@@ -462,7 +328,7 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 :cook-time:
 :ready-in:
 :END:
-** Ingredients
+*** Ingredients
 
 - 1 lb. ground turkey ($3.89)
 - 1 large egg ($0.21)
@@ -478,7 +344,7 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 - 1/8 tsp salt ($0.02)
 - 2 green onions, sliced ($0.20)
 - 1 cup long grain white rice (uncooked) ($0.40)
-** Directions
+*** Directions
 
 1. Preheat the oven to 400ºF. Combine the ground turkey, egg, breadcrumbs,  2 Tbsp  of BBQ sauce (reserve the remaining ¼ cup for later), garlic powder, smoked paprika, and salt in a bowl. Mix the ingredients together by hand until evenly combined.
 2. Divide and shape the meat mixture into 16 meatballs. This is easiest by first dividing the mixture into four equal portions, then dividing and shaping each of those portions into four meatballs. The mixture may be fairly wet. That is okay. Place the meatballs on a parchment lined baking sheet and set aside.
@@ -489,3 +355,220 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 7. After roasting for 15 minutes, take the sheet pan with the vegetables out and give the peppers and onions a stir. Use a brush to lightly coat the pineapple slices with about 2 Tbsp BBQ sauce. Return that sheet pan to the oven.
 8. Remove the sheet pan with the meatballs and use the brush to lightly coat the meatballs with the remaining 2 Tbsp BBQ sauce. Return the sheet pan to the oven. Finish roasting both sheet pans for an additional 10 minutes.
 9. After the meatballs, peppers, onions, and pineapple have finished roasting, it's time to serve! Fluff the rice with a fork, then add about ¾ cup rice to each bowl or meal prep container. Divide the meatballs, peppers, onions, and pineapple slices between the four bowls. Top with sliced green onion, then enjoy!
+
+* Sides
+** Parmesan Roasted Potatoes
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/parmesan-roasted-potatoes/
+:cook-time:
+:servings:
+:prep-time:
+:ready-in:
+:END:
+*** Ingredients
+- 2 lbs. red potatoes ($2.58)
+- 2 Tbsp olive oil ($0.32)
+- 1/3 cup grated Parmesan ($0.59)
+- 1/2 tsp garlic powder ($0.05)
+- 1/2 tsp paprika ($0.05)
+- 1/4 tsp salt ($0.02)
+- 1/4 tsp Freshly cracked black pepper ($0.02)
+- 2 Tbsp chopped fresh parsley (optional) ($0.20)
+*** Directions
+1. Preheat the oven to 400ºF. Wash the potatoes, then cut into 1-inch pieces. Place the chopped potatoes in a large bowl
+2. In a small bowl, stir together the grated Parmesan, garlic powder, paprika, salt, and pepper.
+3. Drizzle the olive oil over the potatoes, then toss to coat. Sprinkle the Parmesan mixture over the potatoes, then toss to coat again.
+4. Spread the potatoes out over a large baking sheet (lined with parchment for easy cleanup, if desired) with cut sides facing down.
+5. Roast the potatoes in the oven for 30 minutes then give them a good stir. Return the potatoes to the oven and roast for an additional 5-10 minutes, or until well browned.
+6. Season the potatoes with another pinch of salt, if desired, then garnish with parsley and serve.
+** Sesame Cucumber Salad
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/thai-cucumber-salad-2/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 1/3 cup rice vinegar ($0.70)
+- 2 Tbsp granulated sugar ($0.02)
+- 1/2 tsp toasted sesame oil ($0.05)
+- 1/4 tsp crushed red pepper ($0.02)
+- 1/2 tsp salt ($0.02)
+- 2 large cucumbers ($1.38)
+- 3 green onions ($0.13)
+- 1/4 cup chopped cashews ($0.12)
+*** Directions
+
+1. In a small bowl, combine the rice vinegar, sugar, sesame oil, crushed red pepper, and salt. Set the dressing aside.
+2. Peel and slice the cucumber using your favorite method (see photos below for my technique). Place the sliced cucumbers in a large bowl.
+3. Chop the cashews into smaller pieces. Slice the green onions.
+4. Add the cashews, green onions, and dressing to the sliced cucumbers. Stir to combine. Serve immediately or refrigerate until ready to eat. Give the salad a brief stir before serving to redistribute the dressing and flavors.
+*** Notes
+Recipe originally called for peanuts - changed to cashew
+** Coconut Rice
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/coconut-rice-take-2/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 1 1/2 cups long-grain jasmine rice ($0.48)
+- 1 clove garlic, minced ($0.08)
+- 3/4 tsp salt ($0.03)
+- 1 13.5oz. can coconut milk ($2.29)
+- 1 cup water ($0.00)
+*** Directions
+1. Rinse the jasmine rice using a wire mesh strainer or a bowl, making sure to pour off as much excess water as possible. Add the rinsed rice to a pot along with the minced garlic and salt.
+2. Add the coconut milk and water to the pot. Give the rice a brief stir.
+3. Place a lid on the pot, turn the heat up to high, and allow the liquid to come up to a full boil. Once it reaches a full boil, turn the heat down to low. Allow the rice to simmer over low for 15 minutes. Make sure the pot maintains a simmer. Do not stir or lift the lid as the rice simmers.
+4. After simmering for 15 minutes, remove the pot from the heat and let the rice rest an additional 5 minutes without lifting the lid. Finally, after the rice has rested, you lift the lid and fluff with a fork. Serve hot.
+** Iceberg with dried oregano dressing and creamy sheep's milk cheese recipe
+:PROPERTIES:
+:source-url: https://www.delicious.com.au/recipes/iceberg-dried-oregano-dressing-creamy-sheeps-milk-cheese-recipe/wr1x9pzg?r=recipes/collections/1vo4q819
+:servings: 6
+:prep-time: Unknown
+:cook-time: Unknown
+:ready-in: Unknown
+:END:
+*** Ingredients
+- 2 iceberg lettuces, outer leaves removed
+- 1 bunch chives, snipped
+- 1/2 bunch dill, fronds picked
+- 50-70g creamy sheep’s milk feta (Bulgarian sheep’s milk feta works, or even a Danish cow’s milk feta would be good too)
+- 30g thinly sliced shallot
+- 50ml agrodolce-style white wine vinegar (if you can’t find that, add 2 tsp honey to regular white wine vinegar)
+- 1 tsp salt
+- 1 1/ 2 tsp dried oregano
+- 120ml extra-virgin olive oil
+*** Directions
+
+1. First, make your vinaigrette. In a small bowl or jar with a lid, combine the eschalot, vinegar and salt. Leave to macerate for about 15 minutes. Next, add the oregano and olive oil and mix or shake to combine.
+2. Cut your iceberg into thin, long wedges and arrange on a platter. Shake the dressing up just before pouring it over the lettuce. Sprinkle a bit of salt on top, followed by the chives and dill, then shave slices of cheese over the whole thing, or simply crumble it in. Serve immediately.
+
+** Jalapeño Cheddar Cornbread
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/jalapeno-cheddar-cornbread/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 1 tsp butter ($0.04)
+- 1 cup all-purpose flour ($0.15)
+- 1 cup cornmeal ($0.38)
+- 2 Tbsp sugar ($0.04)
+- 1 Tbsp baking powder ($0.06)
+- 3/4 tsp salt ($0.02)
+- 4 oz. cheddar, shredded ($1.00)
+- 2 jalapeños ($0.14)
+- 1/2 cup sour cream ($0.58)
+- 1/2 cup milk ($0.20)
+- 2 large eggs ($0.42)
+- 1/4 cup cooking oil ($0.16)
+*** Directions
+
+1. Preheat the oven to 400ºF. Use the butter to grease the inside of an 8×8 inch baking dish.
+2. In a large bowl, combine the flour, cornmeal sugar, baking powder, and salt.
+3. Remove the seeds from one of the jalapeños and finely dice it, then slice the second jalapeño into rounds. Add the diced jalapeño to the bowl with the flour, saving the sliced jalapeño to use as a topping.
+4. Add about ¾ of the shredded cheddar to the bowl with the flour mixture, saving the remaining to use as a topping. Stir the diced jalapeño and shredded cheddar into the flour mixture until evenly combined.
+5. In a separate bowl, whisk together the sour cream, milk, eggs, and oil.
+6. Pour the wet ingredients into the bowl with the dry ingredients and stir just until everything is moist (it's okay if there are a few lumps).
+7. Pour the batter into the prepared baking dish and spread it out evenly. Top with the sliced jalapeños and the remaining shredded cheddar.
+8. Bake the cornbread for about 35 minutes, or until the center has puffed up and the edges are golden brown.
+9. Slice the cornbread into nine squares and serve warm.
+** Cowboy Caviar
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/cowboy-caviar/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 2   Tbsp   olive oil
+- 1   fresh lime (2 Tbsp juice)   ($0.33)
+- 1/2   Tbsp   balsamic vinegar    ($0.10)
+- 1/2   tsp   chili powder*    ($0.05)
+- 1   tsp   ground cumin    ($0.10)
+- 1/2   tsp   salt    ($0.02)
+- 1/2   tsp   sugar    ($0.02)
+- 1   15oz. can   black beans   ($0.89 )
+- 1   15oz. can   black eyed peas    ($1.09)
+- 1   bell pepper (any color)   ($1.50)
+- 2   Roma tomatoes    ($0.86)
+- 1   jalapeño    ($0.12)
+- 1/4   red onion    ($0.20)
+- 1/4   bunch   fresh cilantro    ($0.20)
+*** Directions
+
+1. In a small bowl, whisk together the olive oil, 2 Tbsp of juice from the lime, balsamic vinegar, chili powder, cumin, salt, and sugar.
+2. Rinse and drain both cans of beans in a colander. Once well drained, transfer them to a large bowl.
+3. Finely dice the bell pepper, tomatoes, jalapeño, and red onion. Try to dice the vegetables into pieces that are roughly the same size as the beans. For a less spicy salad, scrape the seeds out of the jalapeño before dicing. Roughly chop the cilantro.
+4. Add the chopped vegetables to the bowl with the beans.
+5. Pour the dressing over the salad, then stir until everything is well coated. Serve immediately, or refrigerate until ready to eat.
+*** Notes
+**** Rating
+- 5
+- I love it. Other people love it. Chopping is a minor pain but it's not so bad. It could probably be fine with another jalapeno in there.
+
+* Other
+
+** Gluten Free Pie Crust
+*** Ingredients
+- 1 cup + 2 Tbsp brown rice flour mix
+- 2 Tbsp sweet rice flour
+- 1 Tbsp sugar
+- 1/2 tsp xanthan gum
+- 1/4 tsp salt
+- 6 Tbsp cold unsalted butter, cut into six pieces
+- 1 large egg
+- 2 teaspoons orange juice or lemon juice
+*** Directions
+1. Mix the flours, sugar, xanthan gum, and salt in the large bowl of an electric mixer.
+2. Add the butter and mix until the mixture is crumbly and resembles a coarse meal.
+3. Add the egg and orange juice. Mix on low speed until the dough holds together; it should not be sticky. Form the dough into a ball using your hands and place on a sheet of wax paper. Top with a second sheet of wax paper and flatten the dough to 1-inch thickness.
+   1. The dough can be frozen at this point for up to one month; wrap in plastic wrap and then use foil as an outer wrap on top of the plastic
+4. Roll out the dough between the two sheets of wax paper. If the dough seems tacky, refrigerate for 15 minutes before proceeding. Remove the top sheet of wax paper and inver the dough into a pie pan. Remove the remaining sheet of wax paper and crimp the edges for a single crust pie.
+   1. If you are going to use the crust to make a regular pie, the dough can also be frozen after it is in the pie pan for up to one month; line the pie shell with wax paper, wrap in plastic wrap, and use foil as an outer wrap.
+5. To prebake a bottom pie crust:
+
+   Preheat the oven to 375F. Gently prick the pastry in 3 or 4 places with a fork. Bake the pastry for about 25 minutes or until golden. Remove the oven and cool completely on a wire rack.
+   1. Prebaked pie shells can be stored in airtight plastic containers or plastic wrap in the refrigerator for three days. For longer storage, wrap in plastic wrap and then foil and store in the freezer for up to two weeks.
+
+6. To partially bake a bottom pie crust:
+
+   Preheat the oven to 375F. Bake the pastry for 10 minutes. Remove from the oven. Fill and bake as per recipe. Partially bake the pie crust whenever you are making a fruit pie or quiche.
+*** Notes
+I make a double recipe, since a single recipe isn't quite enough for my pie tin
+** Blueberry Pie Filling
+*** Ingredients
+- 4 cups fresh blueberries, rinsed and well drained
+- 1 cup sugar
+- 3 Tbsp cornstarch
+- 1/4 tsp salt
+- 1/4 cup water
+- 1 tsp lemon juice
+- 1 Tbsp butter
+*** Directions
+1. Line the baked and cooled pie crust with 2 cups blueberries.
+2. In a medium saucepan, mix together sugar, cornstarch, and salt.
+3. Add remaining blueberries, water, and lemon juice. Mix well.
+4. Cook over medium heat until thickened.
+5. Remove from heat. Add butter. Cool.
+6. Pour over berries in pie crust.
+7. Chill until serving time.
+** Whipping Cream
+*** Ingredients
+- 1 pint whipping cream
+- 1 tsp vanilla
+- 3 Tbsp powdered sugar
+*** Directions
+1. Mix ingredients together until stiff peaks form.
