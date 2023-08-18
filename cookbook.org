@@ -493,20 +493,20 @@ Recipe originally called for peanuts - changed to cashew
 :END:
 *** Ingredients
 
-- 2   Tbsp   olive oil
-- 1   fresh lime (2 Tbsp juice)   ($0.33)
-- 1/2   Tbsp   balsamic vinegar    ($0.10)
-- 1/2   tsp   chili powder*    ($0.05)
-- 1   tsp   ground cumin    ($0.10)
-- 1/2   tsp   salt    ($0.02)
-- 1/2   tsp   sugar    ($0.02)
-- 1   15oz. can   black beans   ($0.89 )
-- 1   15oz. can   black eyed peas    ($1.09)
-- 1   bell pepper (any color)   ($1.50)
-- 2   Roma tomatoes    ($0.86)
-- 1   jalapeño    ($0.12)
-- 1/4   red onion    ($0.20)
-- 1/4   bunch   fresh cilantro    ($0.20)
+- 2 Tbsp olive oil
+- 1 fresh lime (2 Tbsp juice) ($0.33)
+- 1/2 Tbsp balsamic vinegar  ($0.10)
+- 1/2 tsp chili powder*  ($0.05)
+- 1 tsp ground cumin  ($0.10)
+- 1/2 tsp salt  ($0.02)
+- 1/2 tsp sugar  ($0.02)
+- 1 15oz. can black beans ($0.89 )
+- 1 15oz. can black eyed peas  ($1.09)
+- 1 bell pepper (any color) ($1.50)
+- 2 Roma tomatoes  ($0.86)
+- 1 jalapeño  ($0.12)
+- 1/4 red onion  ($0.20)
+- 1/4 bunch fresh cilantro  ($0.20)
 *** Directions
 
 1. In a small bowl, whisk together the olive oil, 2 Tbsp of juice from the lime, balsamic vinegar, chili powder, cumin, salt, and sugar.
