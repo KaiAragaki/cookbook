@@ -13,11 +13,11 @@ When I feel like it, I'll add notes to things describing tips (usually for mysel
 
 If I do remember to rate something, here's a reminder as to how I should score things:
 
-- 1: I hate this dish. I didn't even finish the stuff I made for me, and I would avoid eating it if offered to me.
-- 2: I don't really like this dish. I wouldn't make it again, but I would probably eat it if it were served to me.
-- 3: I don't have any strong feelings about this dish. I would make it again if it was exceptionally quick to make, but I wouldn't seek it out.
-- 4: I like this dish. I would make it again, and would serve it to someone if they were at my house and happened to need some food.
-- 5: I love this dish. I will make it again, even if it is somewhat challenging or time consuming to make. I would bring this to an event as a dish.
+1. I hate this dish. I didn't even finish the stuff I made for me, and I would avoid eating it if offered to me.
+2. I don't really like this dish. I wouldn't make it again, but I would probably eat it if it were served to me.
+3. I don't have any strong feelings about this dish. I would make it again if it was exceptionally quick to make, but I wouldn't seek it out.
+4. I like this dish. I would make it again, and would serve it to someone if they were at my house and happened to need some food.
+5. I love this dish. I will make it again, even if it is somewhat challenging or time consuming to make. I would bring this to an event as a dish.
 
 * Main Dishes
 ** Creamy Sweet Potato Soup
