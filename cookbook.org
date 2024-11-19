@@ -136,7 +136,9 @@ I expect this distribution will not be uniform - I expect most recipes to be at 
 3. Drizzle the cooking oil over the chicken and vegetables, then sprinkle the fajita seasoning mix over top. Use your hands to toss the ingredients until everything is well coated in oil and seasoning. Spread the chicken and vegetables out over the baking sheet evenly.
 4. Bake the chicken and vegetables in the preheated oven for 35-40 minutes, stirring once halfway through. Squeeze the juice from half of the lime over top of the meat and vegetables after they come out of the oven.
 5. To serve, scoop a small amount of meat and vegetables into the center of each tortilla. Top with a few sprigs of cilantro, a dollop of sour cream, and an extra squeeze of lime if desired.
-
+*** Notes
+**** Rating
+- 5
 ** Honey Sriracha Tofu
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/honey-sriracha-tofu/
@@ -164,6 +166,11 @@ I expect this distribution will not be uniform - I expect most recipes to be at 
 6. Heat a non-stick skillet over medium. When the skillet is hot, add the prepared tofu. The tofu will fry in the oil that is coating the cubes. Cook the tofu, stirring only occasionally, until it is brown and crispy on all sides (about 10 minutes).
 7. Pour the honey sriracha sauce over the tofu and continue to stir and cook for 1-2 more minutes, or until the glaze is thick and sticky.
 8. Top the honey sriracha tofu with sliced green onions and serve.
+*** Notes
+A classic. I love it.
+**** Rating
+- 5
+
 ** Easy Teriyaki Chicken
 :PROPERTIES:
 :source-url: https://www.budgetbytes.com/easy-teriyaki-chicken/
@@ -211,6 +218,10 @@ I expect this distribution will not be uniform - I expect most recipes to be at 
 4. Add the diced butternut squash and stir to combine. Place a lid on the skillet and let the squash simmer in the sauce for about 10 minutes, or just until fork-tender.
 5. Add the coconut milk to the skillet, stir to combine, and heat through.
 6. Once the sauce is hot again, add the fresh spinach. Stir to combine and allow the spinach to wilt in the hot sauce. Season the curry to taste with salt, then enjoy!
+*** Notes
+- Just kind of bland. It looks better than it tastes.
+**** Rating
+- 2
 
 ** Honey Chipotle Chicken
 :PROPERTIES:
@@ -419,7 +430,254 @@ This recipe was provided by Alyssa Arbuiso and was written by Elisa Calise and A
 *** Notes
 All of this is to taste. Adjust as necessary.
 
+** Honey Garlic Chicken
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/honey-garlic-chicken/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
 
+*** Ingredients
+
+- 1/3   cup   honey   ($1.08)
+- 2   Tbsp   soy sauce   ($0.14)
+- 1   Tbsp   rice vinegar   ($0.10)
+- 1   tsp   sriracha   ($0.05)
+- 2   tsp   toasted sesame oil   ($0.20)
+- 1   Tbsp   cornstarch   ($0.05)
+- 2   boneless, skinless chicken breasts   ($6.49)
+- 1   tsp   salt   ($0.05)
+- 1/2   tsp    black pepper   ($0.02)
+- 1/2   tsp   garlic powder   ($0.05)
+- 2   Tbsp   all-purpose flour   ($0.04)
+- 3   Tbsp   olive oil   ($0.48)
+- 2   Tbsp   butter   ($0.27)
+- 4   cloves of garlic, minced   ($0.32)
+- 2   green onions, sliced   ($0.24)
+*** Directions
+
+1. Start by making the sauce. Combine the honey, soy sauce, rice vinegar, sriracha, toasted sesame oil, and cornstarch together in a small bowl. Set the sauce aside.
+2. Cut the chicken breasts into small 1/2 inch sized pieces. Season with salt, black pepper and garlic powder. Then toss the chicken pieces in the flour until each piece is evenly coated.
+3. Heat a large skillet over medium-high heat and add 2 Tbsp of oil. Swirl to coat the surface of the skillet. Once the skillet is hot, add half of the chicken and cook until browned on all sides and cooked through. Remove the chicken from the skillet onto a separate plate and set aside. Add the remaining 1 Tbsp of oil and repeat with cooking the 2nd batch of chicken until cooked through. Set all of the chicken aside.
+4. In the same skillet add the butter and lower the heat down to medium-low heat. Add the minced garlic cloves and saute for 30-60 seconds until fragrant.
+5. Next give the sauce another brief stir, then pour the sauce into the skillet with the garlic. Stir the sauce and scrape up any browned bits that are stuck at the bottom of the skillet. Let the sauce simmer for about 2 minutes to allow the cornstarch to activate and thicken the sauce.
+6. Now add the cooked chicken back to the skillet and stir with the sauce until all of the pieces are evenly coated. Continue to cook for 1-2 more minutes to allow the chicken to heat through.
+7. Remove the skillet from the heat, top with sliced green onions, and enjoy!
+j
+*** Notes
+- I'd add a bit more sriracha than the recipe calls for
+**** Rating
+- 5
+** Peanut Tofu
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/peanut-tofu/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 1/2   cup   natural peanut butter   ($0.58)
+- 2   Tbsp   sriracha   ($0.22)
+- 2   Tbsp   brown sugar   ($0.08)
+- 1   lime (2 Tbsp juice)   ($0.50)
+- 2   tsp   soy sauce   ($0.04)
+- 2   cloves   garlic, minced   ($0.16)
+- 1/2   cup   vegetable broth   ($0.07)
+- 14   oz.   extra firm tofu*   ($1.79)
+- 1   Tbsp   soy sauce   ($0.06)
+- 1   Tbsp   toasted sesame oil   ($0.06)
+- 1   Tbsp   cornstarch   ($0.03)
+- 2   Tbsp   cooking oil, divided   ($0.08)
+- 16   oz.   frozen stir fry vegetables   ($2.25)
+- 3   cups   cooked rice   ($0.62)
+- 1   handful   cilantro   ($0.20)
+*** Directions
+
+1. Make the peanut sauce first so the flavors have time to blend. Whisk together the peanut butter, sriracha, brown sugar,  2  Tbsp lime juice, soy sauce, minced garlic, and vegetable broth.
+2. Press the tofu for 30 minutes to expel the excess water or use previously frozen tofu and squeeze the water out with your hands. Cut the tofu block into 24 triangles (12 squares, then cut diagonally into triangles).
+3. In a large bowl, whisk together the soy sauce, toasted sesame oil, and cornstarch. Add the tofu pieces and gently toss until they are coated in the mixture.
+4. Add  1  Tbsp cooking oil to a large non-stick skillet and heat over medium. Once hot, add the tofu and cook until browned on all sides (about 10 minutes total). Remove the tofu from the skillet.
+5. Add  1  Tbsp cooking oil to the skillet then add the frozen stir fry vegetables. Cook over medium heat until heated through.
+6. Add the cooked tofu back to the skillet with the vegetables, then pour the prepared peanut sauce over top. Stir to combine and heat through.
+7. Slice any remaining lime into wedges. Top the peanut tofu with the lime wedges and fresh cilantro (if desired) before serving over cooked rice or noodles.
+*** Notes
+I didn't use peanut butter. I wanted to use soy butter but I couldn't find any ??? So I used sunflower butter and it just wasn't that great. Might be better with soy butter or cashew butter. I think texture is also important here - so soy butter is probably the closest fit.
+**** Rating
+- 3
+** Creamy Pesto Chicken
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/creamy-pesto-chicken/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 2   boneless, skinless chicken breast (about 1.3 lb. total)   ($6.59)
+- 1/8   tsp   salt   ($0.01)
+- 1/8   tsp   pepper   ($0.01)
+- 2   Tbsp   olive oil, divided   ($0.32)
+- 2   cloves   garlic, minced   ($0.16)
+- 1   pint   grape tomatoes, sliced in half   ($2.00)
+- 1/2   cup   heavy cream   ($0.62)
+- 1/4   cup   pesto   ($0.99)
+*** Directions
+
+1. Fillet the chicken breasts into two thinner pieces (or pound the chicken to an even thickness then cut each breast in half to create four portions). Season the chicken with a pinch of salt and pepper on both sides.
+2. Heat a large skillet over medium heat. Once hot, add  1  Tbsp oil and swirl to coat the surface. Add the chicken to the skillet and cook on each side until golden brown and cooked through (about 7-10 minutes total). Remove the chicken to a clean plate.
+3. Turn the heat down to medium-low. Add the remaining olive oil to the skillet along with the minced garlic and halved grape tomatoes. Sauté for about five minutes, or until the tomatoes start to soften and lose their shape.
+4. Add the heavy cream and pesto to the skillet with the tomatoes and stir to combine. Allow the sauce to come up to a simmer. Taste the sauce and adjust the salt or pepper to your liking.
+5. Add the chicken back to the skillet with the tomatoes and sauce, turning to coat the chicken. Allow the chicken to simmer in the sauce for just a few minutes more to heat through. Serve hot.
+*** Notes
+I use cashew pesto because apparently I'm Allergic To Everything
+**** Rating
+- 5
+** Creamy Garlic Chicken
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/creamy-garlic-chicken/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 2   boneless, skinless chicken breasts (about 1.3 lbs. total)   ($6.49)
+- 1/2   tsp   Italian seasoning   ($0.05)
+- 1/2   tsp   salt   ($0.02)
+- 1/4   tsp   freshly cracked black pepper   ($0.02)
+- 1/4   cup   all-purpose flour   ($0.06)
+- 2   Tbsp   olive oil   ($0.32)
+- 2   Tbsp   butter, divided   ($0.27)
+- 1   whole garlic bulb (about 8-9 garlic cloves)   ($0.64)
+- 1   cup   chicken broth   ($0.17)
+- 3/4   cup   heavy cream   ($1.08)
+- 1/2   tsp   garlic powder   ($0.05)
+- Salt and Pepper to taste   ($0.04)
+*** Directions
+
+1. Using a sharp knife, carefully fillet each chicken breast into two thinner cutlets (or use thin-cut chicken breasts).
+2. Season each breast with Italian seasoning, salt, and black pepper. Then sprinkle the flour over both sides of the chicken breasts and rub it in until the chicken is evenly coated.
+3. Heat a large skillet over medium heat and add the olive oil and  1  Tbsp of butter. Once the skillet is hot, add the chicken and cook on each side until golden brown and cooked through (about 4 minutes per side). Remove the cooked chicken to a clean plate and cover to keep warm.
+4. While the chicken is cooking, peel the garlic cloves and then carefully smash them with the side of a large chef's knife by pressing down on the side of the knife with the heel of your hand.
+5. Once the chicken is removed, to the same skillet add the remaining  1  Tbsp of butter, then add the garlic cloves. Turn the heat down to medium-low and sauté the garlic for 3 minutes or until lightly browned and fragrant. Make sure to stir the garlic frequently to prevent it from burning.
+6. Next pour the chicken broth and heavy cream into the skillet, then add the garlic powder. Stir and scrape up any brown bits from the bottom of the skillet. Allow the sauce to simmer in the skillet for 8-10 minutes, or until it has reduced and thickened by about 50%. Taste the sauce at this point and add salt and pepper if needed (I added about ⅛ tsp of salt and ⅛ tsp of black pepper).
+7. Finally, return the cooked chicken breasts to the skillet and spoon the creamy sauce over top. Allow the chicken to heat through. Serve with fresh chopped parsley (optional), and enjoy!
+*** Notes
+**** Rating
+- 5
+** Cajun Sausage and Rice Skillet
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/cajun-sausage-and-rice-skillet/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 14   oz.   Andouille sausage*   ($3.99)
+- 1   Tbsp   cooking oil   ($0.04)
+- 1   bell pepper   ($0.89)
+- 1   tsp   smoked paprika   ($0.10)
+- 1/2   tsp   dried oregano   ($0.05)
+- 1/2   tsp   dried thyme   ($0.05)
+- 1/4   tsp   garlic powder   ($0.02)
+- 1/4   tsp   onion powder   ($0.02)
+- 1/8   tsp   cayenne pepper   ($0.02)
+- 1/8    tsp   freshly cracked black pepper   ($0.01)
+- 1   15oz. can   fire roasted diced tomatoes   ($1.00)
+- 1   cup   long grain white rice   ($0.62)
+- 1.5   cups    chicken broth   ($0.20)
+- 2   green onions, sliced   ($0.20)
+*** Directions
+
+1. Slice the sausage into ¼-½ inch thick slices. Add the sausage and cooking oil to a deep skillet or Dutch oven and sauté over medium heat until the sausage is well browned. Don't worry if the sausage begins to brown on the bottom of the skillet. That's extra flavor that will cook into the rice later.
+2. While the sausage is cooking, dice the bell pepper. Once the sausage is browned, add the bell pepper to the skillet and continue to sauté for about one more minute.
+3. Add the spices (smoked paprika, oregano, thyme, garlic powder, onion powder, cayenne, and black pepper) to the skillet with the sausage and bell pepper and continue to sauté for one minute more to toast the spices.
+4. Add the fire roasted diced tomatoes (with juices), rice, and chicken broth to the skillet. Stir to combine and dissolve any browned bits off the bottom of the skillet.
+5. Place a lid on the skillet, turn the heat up to medium-high, and allow the broth to come to a full boil. Once it reaches a boil, turn the heat down to low and let the skillet simmer for 20 minutes. After 20 minutes, remove the skillet from the heat and let it rest, with the lid on, for an additional 5 minutes.
+6. After the skillet has rested, remove the lid, and fold the sausage and rice to redistribute the rice and sausage throughout. Top with sliced green onions and serve!
+*** Notes
+A classic, but I'm a little bored of it.
+**** Rating
+4
+** Southwest Lentils and Rice Skillet
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/southwest-lentils-and-rice-skillet/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 1   Tbsp   olive oil   ($0.11)
+- 1    small   red onion   ($0.42)
+- 2   cloves   garlic   ($0.16)
+- 1.5   tsp    cumin   ($0.15)
+- 1   tsp    chili powder   ($0.10)
+- 1   tsp    adobo seasoning   ($0.10)
+- 1/2   tsp    dried oregano   ($0.05)
+- 1/2   tsp    salt   ($0.04)
+- 1/4   tsp    freshly cracked black pepper   ($0.02)
+- 1/2    cup   brown lentils, rinsed   ($0.38)
+- 1   15oz.   can black beans, drained & rinsed   ($0.79)
+- 1   14.5oz.   can fire roasted tomatoes   ($1.25)
+- 1   cup    frozen corn   ($0.60)
+- 2   cups    vegetable broth   ($0.34)
+- 3/4   cup   long grain white rice, rinsed   ($0.32)
+- 1/2   cup   shredded cheddar cheese   ($0.58)
+- 2   green onions, sliced   ($0.24)
+*** Directions
+
+1. Dice the red onion and mince the garlic. Add olive oil and onion to a large deep skillet over medium heat and sauté until onions are translucent, approximately 2-3 minutes. Add minced garlic and sauté an additional 30 seconds or until garlic is fragrant.
+2. Add the cumin, chili powder, adobo, oregano, salt, and pepper to the skillet, stir and toast spices for about 30 seconds.
+3. Next add in the lentils, black beans, fire roasted tomatoes (with juices), corn, and vegetable broth. Stir everything to combine. Place a lid on the skillet, turn the heat up to medium-high, and allow the mixture to come to a full boil. Once boiling, immediately reduce the heat to medium-low and simmer for 5 minutes. This will allow the lentils to start cooking first before adding the rice.
+4. After 5 minutes, remove the lid and add the rice. Stir briefly just to evenly distribute the rice, cover with a lid, bring the skillet back to a boil, then reduce the heat again and simmer for 20 minutes.
+5. While the mixture is cooking, grate the cheddar cheese and slice the green onions.
+6. After 20 minutes, remove the skillet from the heat and let it rest, with the lid on, for 5 minutes. After it has rested, remove the lid, fluff the rice and gently stir to redistribute the veggies.
+7. Top the lentils and rice mixture with shredded cheese and sliced green onions. Serve with more of your favorite toppings and enjoy!
+*** Notes
+It's fine, but it feels like the lentils are always a little hard. Brings a weird texture to the mix. Skill issue?
+**** Rating
+- 3
+** Chicken Fried Rice
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/chicken-fried-rice/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
+
+- 2   cloves   garlic, minced   ($0.16)
+- 1   tsp   grated fresh ginger   ($0.10)
+- 3   green onions, sliced   ($0.30)
+- 1   carrot, diced small   ($0.16)
+- 1   red bell pepper, diced   ($1.50)
+- 1   cup   frozen peas   ($0.50)
+- 1   large boneless skinless chicken breast   ($2.62)
+- 2   large eggs   ($0.46)
+- 3   Tbsp   cooking oil, divided   ($0.13)
+- 3   Tbsp   toasted sesame oil   ($0.96)
+- 3   Tbsp   soy sauce   ($0.15)
+- 3   cups   cooked and cooled rice   ($0.62)
+*** Directions
+
+1. Prepare the vegetables beforehand so they’re ready to go when needed. Mince the garlic, grate the ginger, dice the carrot and bell pepper, slice the green onions (separate the green ends from the white ends), and measure the frozen peas.
+2. On a separate, clean cutting board, cut your chicken into ½ inch pieces so you get a little in every bite. Set aside (and wash your hands!)
+3. Lightly whisk the eggs in a small bowl. Heat a large skillet over medium heat. Once hot, add  2  Tbsp of cooking oil and swirl to coat the surface. Add the eggs and gently scramble until cooked through. Transfer the cooked eggs to a clean bowl or plate off to the side.
+4. Turn the heat up to medium-high. Add the diced carrots, stir, and cook for about two minutes. Next, add the bell pepper and the white firm ends of the green onions. Cook and stir for one minute more. Finally, add the frozen peas and stir and cook until heated through. Transfer the vegetables to a clean bowl or plate.
+5. Add the remaining  1  Tbsp cooking oil to the skillet and swirl to coat the surface. Add the ½ inch pieces of chicken and completely cook through, about 4 minutes. Once the chicken is about ½ of the way cooked through (2-3 minutes), add the garlic and ginger and cook for an additional 2-3 minutes.
+6. Then, add the cooked and cooled rice to the skillet. Stir and cook the chicken and rice together for about 2 minutes, or until the rice is heated through. Pour the soy sauce and toasted sesame oil over the rice. Stir the rice and sauce together until evenly combined. Turn the heat off.
+7. Add the eggs and vegetables back to the skillet with the chicken and rice and stir to combine. Allow the residual heat to heat everything through. Top with the remaining green ends of the sliced green onions. Taste and adjust the soy sauce or sesame oil to your liking.
 * Sides
 ** Parmesan Roasted Potatoes
 :PROPERTIES:
@@ -666,11 +924,29 @@ Recipe originally called for peanuts - changed to cashew
 **** Rating
 - 5
 - It ends up being a bit like tzatziki. It's nice.
+** Roasted Brussels Sprouts
+:PROPERTIES:
+:source-url: https://www.budgetbytes.com/easy-roasted-brussels-sprouts/
+:servings:
+:prep-time:
+:cook-time:
+:ready-in:
+:END:
+*** Ingredients
 
+- 1   lb.   Brussels sprouts   ($1.99)
+- 1   Tbsp   olive oil   ($0.16)
+- 1/4   tsp   salt   ($0.02)
+- 1/4   tsp   garlic powder   ($0.02)
+- 1/4   tsp    freshly cracked black pepper   ($0.02)
+*** Directions
 
+1. Preheat the oven to 400ºF. Wash the Brussels sprouts and trim off any dry ends. Cut each Brussels sprout in half.
+2. Place the cut Brussels sprouts on a parchment lined baking sheet. Drizzle with olive oil and sprinkle with salt, garlic powder, and pepper. Toss until the Brussels sprouts are well coated oil and seasoning. Turn each Brussels sprout so that it is cut side facing down.
+3. Roast the Brussels sprouts in the oven for about 25 minutes, or until they are browned and caramelized on the edges. You can stir the Brussels sprouts at about 20 minutes to gauge the amount of browning on the bottom layer of the sprouts. No need to make sure they're all face down again for the final few minutes.
+4. Taste one Brussels sprout and adjust the salt or pepper to your liking, then serve hot.
 
 * Other
-
 ** Gluten Free Pie Crust
 *** Ingredients
 - 1 cup + 2 Tbsp brown rice flour mix
@@ -715,10 +991,39 @@ I make a double recipe, since a single recipe isn't quite enough for my pie tin
 5. Remove from heat. Add butter. Cool.
 6. Pour over berries in pie crust.
 7. Chill until serving time.
-** Whipping Cream
+** Whipped Cream
 *** Ingredients
 - 1 pint whipping cream
 - 1 tsp vanilla
 - 3 Tbsp powdered sugar
 *** Directions
 1. Mix ingredients together until stiff peaks form.
+
+** Easy Lemon Bars
+:PROPERTIES:
+:source-url: https://www.recipetineats.com/lemon-bars/
+:servings: 16
+:prep-time: 15 minutes mins
+:cook-time: 40 minutes mins
+:ready-in: 3 hours hrs 55 minutes mins
+:END:
+*** Ingredients
+
+- 3/4 cup plain flour, (all purpose flour)
+- 1/4 cup rice flour, (or cornstarch/cornflour) (Note 1)
+- 1/2 cup icing sugar / powdered sugar, sifted
+- 1/4 tsp salt
+- 110g / 1 stick  unsalted butter, cold, cut into 1cm / 1/2" cubes
+- 3 , (55-60g/2oz each)
+- 1 cup caster sugar / super-fine sugar, (sub regular sugar)
+- 2 tbsp plain flour, (all purpose flour)
+- 1 tbsp lemon zest, (do this before juicing)
+- 1/2 cup lemon juice, (2 – 3 lemons)
+*** Directions
+
+1. Preheat  oven to 180C/350F (160C fan). Spray a 20cm/8" square tin with oil and line with baking/parchment paper with overhang (so it can be lifted out once cooked).
+2. Base –  Place Shortbread Base ingredients in a food processor fitted with the standard "S" blade. Pulse 5 to 10 times until it becomes like sand. (Or use tips of fingers, Note 2). Pour into the tin, spread, then press firmly into the base, pushing it right up to the edges. Using something flat to press in is helpful!
+3. Bake base  for 20 minutes or until golden on the edges and pale golden in the middle. Remove from oven. (Note: don't let it cool, pour in curd immediately).
+4. Lemon Curd –  While the base is baking, place Lemon Topping ingredients in a bowl and whisk until combined.
+5. Bake 20 minutes –  Pour Lemon Curd onto base, then bake for 20 minutes until the topping is set but still soft.
+6. Cool –  Remove from then oven and cool on the counter for 1 hour, then fridge for at least 2 hours. Slice into 16 squares. Dust with icing sugar (confectionary sugar) and serve!
